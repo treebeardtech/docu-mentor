@@ -1,5 +1,7 @@
 # Docu-Mentor
 
+https://www.anyscale.com/blog/building-an-llm-powered-github-bot-to-improve-your-pull-requests
+
 <img width="212" alt="docu_mentor" src="https://github.com/maxpumperla/docu-mentor/assets/3462566/de9f387a-4c97-4ade-a811-3b6282950f2c">
 
 Automatically get suggestions to improve the writing in your PRs from this
